@@ -65,7 +65,7 @@ callback will be received at the beginning and every time the control
 needs to be redrawn (programmer needs to call
 :ref:`CanvasItem.update() <class_CanvasItem_update>`
 to enqueue the CanvasItem for redraw). If the control is not visible
-(yet aother CanvasItem property), the control does not receive any
+(yet another CanvasItem property), the control does not receive any
 input.
 
 In general though, the programmer does not need to deal with drawing and
